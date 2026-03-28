@@ -12,3 +12,5 @@ java Main
 - Insertar productos
 - Mostrar inventario ordenado
 - Buscar productos
+## Nota
+Proyecto realizado para la actividad final de estructuras de datos.
