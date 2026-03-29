@@ -1,3 +1,4 @@
+// Mejora: se agregan comentarios para explicar el funcionamiento del árbol
 public class ArbolInventario {
 
     Producto raiz;
