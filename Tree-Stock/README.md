@@ -14,3 +14,8 @@ java Main
 - Buscar productos
 ## Nota
 Proyecto realizado para la actividad final de estructuras de datos.
+## Evidencias
+
+![Menú](menu.png)
+![Insertar](insertar.png)
+![Buscar](buscar.png)
