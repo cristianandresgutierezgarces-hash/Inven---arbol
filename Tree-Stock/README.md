@@ -19,3 +19,5 @@ Proyecto realizado para la actividad final de estructuras de datos.
 ![Menú](menu.png)
 ![Insertar](insertar.png)
 ![Buscar](buscar.png)
+ ## video
+ https://youtu.be/jdozkIIygxA
